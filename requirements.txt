@@ -1,8 +1,8 @@
 streamlit 
 pandas
 numpy
-matplotlib.pyplot
-plotly.express
+matplotlib
+plotly
 sqlite3
 os
 json
