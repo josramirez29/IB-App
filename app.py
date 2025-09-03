@@ -443,7 +443,6 @@ def main():
         - Valores nulos y duplicados
         - Distribución de tipos de datos
         - Completitud por columna
-        - Correlaciones entre variables
         - Histogramas, boxplots, frecuencias y medidas estadísticas
         """)
 
@@ -466,3 +465,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
